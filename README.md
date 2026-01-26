@@ -9,13 +9,13 @@ I'm a dedicated IT graduate with a passion for web technology and graphic design
 - 🔧 Building IoT projects with ESP32
 - 💻 Contributing to open-source projects
 
-## Design & Multimedia:
+## Design & Multimedia
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 ## Tools & Technologies
 **Development:** HTML, CSS, JavaScript, React, Python, Visual Studio Code, Vim
 
-**Design & Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Figma, CorelDRAW, Affinity Designer, OBS Studio, Krita, DaVinci Resolve
+**Design & Multimedia:** Adobe Photoshop, Adobe Premiere Pro, Figma, CorelDRAW, Affinity Designer, OBS Studio, Krita, DaVinci Resolve
 
 **Systems:** Linux, Windows, IoT (ESP32)
 
