@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Raditia Faqih 👋
 
-<!--
-**faqih-nh/faqih-nh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a dedicated IT graduate with a passion for web technology and graphic design. I love creating high-quality visual and digital content, and I'm always eager to learn new technologies and tools.
 
-Here are some ideas to get you started:
+## What I'm Currently Working On
+- 🌱 Exploring advanced front-end development with React
+- 🎨 Creating digital content and improving my design skills
+- 🔧 Building IoT projects with ESP32
+- 💻 Contributing to open-source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+**Development:** HTML, CSS, JavaScript, React, Python, Visual Studio Code, Vim
+
+**Design & Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Figma, CorelDRAW, Affinity Designer, OBS Studio, Krita, DaVinci Resolve, Krita
+
+**Systems:** Linux, Windows, IoT (ESP32)
+
+**Others:** Git, ChatGPT, Claude, Perplexity, Microsoft Office, LibreOffice
+
+## How to Reach Me
+📧 Email: rafaqihditia@gmail.com
+
+💼 LinkedIn: [linkedin.com/in/raditia-faqih](https://www.linkedin.com/in/raditia-faqih)
+
+🌐 Portfolio: [portfolio-website-raditia-faqih.netlify.app](https://portfolio-website-raditia-faqih.netlify.app)
+
+---
