@@ -12,14 +12,14 @@ I'm a dedicated IT graduate with a passion for web technology and graphic design
 ## Tools & Technologies
 **Development:** HTML, CSS, JavaScript, React, Python, Visual Studio Code, Vim
 
-**Design & Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Figma, CorelDRAW, Affinity Designer, OBS Studio, Krita, DaVinci Resolve, Krita
+**Design & Multimedia:** Adobe Premiere Pro, Adobe Photoshop, Figma, CorelDRAW, Affinity Designer, OBS Studio, Krita, DaVinci Resolve
 
 **Systems:** Linux, Windows, IoT (ESP32)
 
 **Others:** Git, ChatGPT, Claude, Perplexity, Microsoft Office, LibreOffice
 
 ## How to Reach Me
-📧 Email: rafaqihditia@gmail.com
+📷 Instagram: [@fqnhrsy](https://www.instagram.com/fqnhrsy/)
 
 💼 LinkedIn: [linkedin.com/in/raditia-faqih](https://www.linkedin.com/in/raditia-faqih)
 
