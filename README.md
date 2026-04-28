@@ -1,7 +1,7 @@
 # Hi there, I'm Faqih 👋
 
 ## About Me
-I'm a dedicated IT graduate with a passion for web technology and graphic design. I love creating high-quality visual and digital content, and I'm always eager to learn new technologies and tools.
+I'm a dedicated IT person with a passion for web technology and graphic design. I love creating high-quality visual and digital content, and I'm always eager to learn new technologies and tools.
 
 ## What I'm Currently Working On
 - 🌱 Exploring advanced front-end development with React
