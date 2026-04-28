@@ -29,8 +29,8 @@ I'm a dedicated IT graduate with a passion for web technology and graphic design
 ## How to Reach Me
 📷 Instagram: [@fqnhrsy](https://www.instagram.com/fqnhrsy/)
 
-💼 LinkedIn: [linkedin.com/in/raditia-faqih](https://www.linkedin.com/in/raditia-faqih)
+💼 LinkedIn: -
 
-🌐 Portfolio: [portfolio-website-raditia-faqih.netlify.app](https://portfolio-website-raditia-faqih.netlify.app)
+🌐 Portfolio: -
 
 ---
